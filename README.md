@@ -11,7 +11,7 @@ pip install PyPDF2 pdf2image pyhtml2pdf
 # Run
 $ virtualenv .env
 $ . .env/bin/activate
-$ pip install PyPDF2 pdf2image
+$ pip install PyPDF2 pdf2image pyhtml2pdf
 $ python main.py  
 usage: main.py [-h] -i INPUT -t TEXT -o OUTPUT
 
